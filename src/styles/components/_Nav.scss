@@ -1,0 +1,23 @@
+@import '../utils/variables.scss';
+@import '../utils/mixims.scss';
+
+
+nav{
+    @include row-center;
+    justify-content: flex-start;
+    padding: 30px;
+    
+}
+
+.nav_links{
+    margin-left: 300px;
+    
+}
+
+a{
+    padding: 20px;
+    text-decoration: none;
+    color: $black;
+    font-size: 40px;
+    
+}
