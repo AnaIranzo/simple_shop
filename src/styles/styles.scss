@@ -1,5 +1,10 @@
+@import './components/Banner';
+@import './components/Contact';
 @import './components/Footer';
 @import './components/Header';
 @import './components//Main';
 @import './components/Nav';
 
+body{
+    padding: 20px;
+}
