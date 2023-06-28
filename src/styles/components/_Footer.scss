@@ -2,11 +2,44 @@
 @import '../utils/variables.scss';
 
 footer {
-    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     background-color: $red;
     color: white;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+  
+    & img{
+      width: 50px;
+    }
+
+    & a{
+      color: white;
+      
+    }
+
+    
+    }
+  
+    .links{
+      display: flex;
+      flex-direction: column;
+    }
+
+
+    @media screen and (min-width: 768px){
+      footer{
+        flex-direction: row;
+        height: 150px;
+      }
+
+      .links{
+        display: flex;
+        flex-direction: row;
+      }
   }
