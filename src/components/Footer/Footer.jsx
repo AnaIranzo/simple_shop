@@ -14,7 +14,7 @@ class Footer extends Component {
 
       </div>
       <div className="dir">
-        <h3>Calle De Los Transportes Nave 7. CP 06800 Mérida</h3>
+        <h3>Calle De Los Transportes Nave 7 Mérida</h3>
       </div>
       <div className="links">
         <Link>Preguntas frecuentes</Link>
