@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { MapContainer, TileLayer, Marker, Popup, Tooltip } from 'react-leaflet';
-import { Icon } from "leaflet";
 const position = [38.920396, -6.326384]
 class Map extends Component {
   
