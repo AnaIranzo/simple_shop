@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { MapContainer, TileLayer, Marker, Popup, Tooltip } from 'react-leaflet';
-const position = [38.920396, -6.326384]
+const position = [40.415941, -3.688028]
 class Map extends Component {
   
   render() {
@@ -11,7 +11,7 @@ class Map extends Component {
     attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
       />
       <Marker position={position}>
-      <Popup>Calle De Los Transportes Nave 7. CP 06800 Mérida</Popup>
+      <Popup>Tu dirección</Popup>
       <Tooltip>Estamos aquí</Tooltip>
     </Marker>
     </MapContainer>
