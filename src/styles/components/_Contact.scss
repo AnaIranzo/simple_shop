@@ -38,11 +38,11 @@ form{
     background: rgb(245, 245, 245);
     
     :hover{
-        border-bottom-color: $red;
+        border-bottom-color: $pink;
         background: #ececec;
     }
     :focus{
-        border-color: $red;
+        border-color: $pink;
     }
 
 }
