@@ -1,9 +1,10 @@
-
 # Simple front for commerce
 
 Built with React.js, Sass, Leaflet and FromSubmit
 
 ### `npm install`
+
+[Take a look!](https://simplesshop.netlify.app/)
 
 
 # Getting Started with Create React App
