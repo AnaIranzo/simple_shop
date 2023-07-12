@@ -1,16 +1,16 @@
 # Simple front for commerce
 
-<img src='./client/public/assets/banner_sshop.png' alt="banner" />
+<img src='./public/assets/banner_sshop.png' alt="banner" />
 
 Built with React.js, Sass, Leaflet and FromSubmit
 
 ## Contact form
 
-<img src='./client/public/assets/contact_sshop.png' alt="contact" />
+<img src='./public/assets/contact_sshop.png' alt="contact" />
 
 ## Map
 
-<img src='./client/public/assets/map_sshop.png' alt="map" />
+<img src='./public/assets/map_sshop.png' alt="map" />
 
 ### `npm install`
 
