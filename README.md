@@ -1,6 +1,16 @@
 # Simple front for commerce
 
+<img src='./client/public/assets/banner_sshop.png' alt="banner" />
+
 Built with React.js, Sass, Leaflet and FromSubmit
+
+## Contact form
+
+<img src='./client/public/assets/contact_sshop.png' alt="contact" />
+
+## Map
+
+<img src='./client/public/assets/map_sshop.png' alt="map" />
 
 ### `npm install`
 
@@ -73,7 +83,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
