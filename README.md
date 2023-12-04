@@ -1,4 +1,4 @@
-# Simple front for commerce
+# Simple front for ecommerce
 
 <img src='./public/assets/banner_sshop.png' alt="banner" />
 
